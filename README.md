@@ -7,8 +7,7 @@ in the field of database technology, reflecting the dynamic and complex
 nature of data management in today's digital landscape.
 
  ## Article 1: Evolution of Database Technology
- [Link to Article 1](https://www.datamation.com/cloud/current-database-trends/)
-In the article "Top 5 Current Database Trends" by Datamation, the 
+In the article [Top 5 Current Database Trends by Datamation](https://www.datamation.com/cloud/current-database-trends/), the 
 evolution and current trends in database technology are thoroughly 
 examined. The article begins by highlighting the significant shift from 
 traditional, on-premises database systems to cloud-based solutions. This 
@@ -43,8 +42,7 @@ in an era where data breaches can have far-reaching implications.
 
 
 ## Article 2: The Critical Challenge of Database Security
-[Link to Article 2](https://portswigger.net/daily-swig/database-security)
-The Daily Swig's article on the latest database security news serves as a 
+The Daily Swig's article on [the latest database security news](https://portswigger.net/daily-swig/database-security) serves as a 
 crucial resource for understanding the contemporary challenges in 
 safeguarding database systems. Although specific details were not 
 accessible, the focus on database security vulnerabilities, such as SQL 
